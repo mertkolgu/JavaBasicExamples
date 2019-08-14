@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="" />
+    <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_03/example/SayiDegeriDegistirme.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AracYakitBilgisi">
+  <component name="RunManager" selected="Application.SayiDegeriDegistirme">
     <configuration name="AracYakitBilgisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._02.example.AracYakitBilgisi" />
       <module name="java-basic-examples" />
@@ -67,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SayiDegeriDegistirme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._03.example.SayiDegeriDegistirme" />
+      <module name="java-basic-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaexamples._03.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SayiDegeriDegistirme" />
         <item itemvalue="Application.AracYakitBilgisi" />
         <item itemvalue="Application.BodyMassIndex" />
       </list>
@@ -86,7 +102,7 @@
       <updated>1565797968767</updated>
       <workItem from="1565797969997" duration="2345000" />
       <workItem from="1565808672591" duration="695000" />
-      <workItem from="1565820460667" duration="1838000" />
+      <workItem from="1565820460667" duration="2145000" />
     </task>
     <servers />
   </component>
