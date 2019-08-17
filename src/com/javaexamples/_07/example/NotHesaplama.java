@@ -1,4 +1,4 @@
-package com.javaexamples._07.examples;
+package com.javaexamples._07.example;
 
 import java.util.Scanner;
 
