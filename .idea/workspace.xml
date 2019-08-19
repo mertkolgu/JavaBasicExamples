@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_17/example/Idman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_17/example/IdmanProgrami.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ATMProgramOOP">
+  <component name="RunManager" selected="Application.IdmanProgrami">
     <configuration name="ATMProgramOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._16.example.ATMProgramOOP" />
       <module name="java-basic-examples" />
@@ -97,26 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlinexamples._01.example.BodyMassIndexKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="IdmanProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._17.example.IdmanProgrami" />
       <module name="java-basic-examples" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlinexamples._01.example.BodyMassIndexKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaexamples._17.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IdmanProgrami" />
         <item itemvalue="Application.ATMProgramOOP" />
         <item itemvalue="Application.AdvancedCalculator" />
         <item itemvalue="Application.EbobBulma" />
         <item itemvalue="Application.AsalSayiBulma" />
-        <item itemvalue="Kotlin.com.kotlinexamples._01.example.BodyMassIndexKt" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +138,7 @@
       <workItem from="1566029769841" duration="8474000" />
       <workItem from="1566080195766" duration="1007000" />
       <workItem from="1566227053139" duration="3020000" />
-      <workItem from="1566238975925" duration="2498000" />
+      <workItem from="1566238975925" duration="5329000" />
     </task>
     <servers />
   </component>
