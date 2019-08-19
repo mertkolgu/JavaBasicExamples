@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlinexamples/_01/example/BodyMassIndex.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic-examples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic-examples/META-INF/java-basic-examples.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-basic-examples/META-INF/java-basic-examples.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,13 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.kotlinexamples._01.example.BodyMassIndexKt">
-    <configuration name="ArmstrongSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._09.example.ArmstrongSayi" />
+  <component name="RunManager" selected="Application.EbobBulma">
+    <configuration name="AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._13.example.AsalSayiBulma" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._09.example.*" />
+          <option name="PATTERN" value="com.javaexamples._13.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarpimTablosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._10.example.CarpimTablosu" />
+    <configuration name="EbobBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._14.example.EbobBulma" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._10.example.*" />
+          <option name="PATTERN" value="com.javaexamples._14.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EbobBulma" />
+        <item itemvalue="Application.AsalSayiBulma" />
         <item itemvalue="Kotlin.com.kotlinexamples._01.example.BodyMassIndexKt" />
         <item itemvalue="Application.FaizUygulamasi" />
         <item itemvalue="Application.KullaniciGirisi" />
-        <item itemvalue="Application.CarpimTablosu" />
-        <item itemvalue="Application.ArmstrongSayi" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +135,7 @@
       <workItem from="1565820460667" duration="2960000" />
       <workItem from="1566029769841" duration="8474000" />
       <workItem from="1566080195766" duration="1007000" />
+      <workItem from="1566227053139" duration="1356000" />
     </task>
     <servers />
   </component>
