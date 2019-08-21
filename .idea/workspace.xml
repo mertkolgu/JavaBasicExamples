@@ -44,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeeProject">
+  <component name="RunManager" selected="Application.BeybladeProgram">
     <configuration name="ATMProgramOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._16.example.ATMProgramOOP" />
       <module name="java-basic-examples" />
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EbobBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._14.example.EbobBulma" />
+    <configuration name="BeybladeProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._19.beyblade.BeybladeProgram" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._14.example.*" />
+          <option name="PATTERN" value="com.javaexamples._19.beyblade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeybladeProgram" />
         <item itemvalue="Application.EmployeeProject" />
         <item itemvalue="Application.IdmanProgrami" />
         <item itemvalue="Application.ATMProgramOOP" />
         <item itemvalue="Application.AdvancedCalculator" />
-        <item itemvalue="Application.EbobBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,8 @@
       <workItem from="1566080195766" duration="1007000" />
       <workItem from="1566227053139" duration="3020000" />
       <workItem from="1566238975925" duration="5620000" />
-      <workItem from="1566387113203" duration="1991000" />
+      <workItem from="1566387113203" duration="2290000" />
+      <workItem from="1566415745315" duration="1625000" />
     </task>
     <servers />
   </component>
