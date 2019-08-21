@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_17/example/Idman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_17/example/IdmanProgrami.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IdmanProgrami">
+  <component name="RunManager" selected="Application.EmployeeProject">
     <configuration name="ATMProgramOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._16.example.ATMProgramOOP" />
       <module name="java-basic-examples" />
@@ -73,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._13.example.AsalSayiBulma" />
+    <configuration name="EbobBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._14.example.EbobBulma" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._13.example.*" />
+          <option name="PATTERN" value="com.javaexamples._14.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EbobBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._14.example.EbobBulma" />
+    <configuration name="EmployeeProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._18.example.EmployeeProject" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._14.example.*" />
+          <option name="PATTERN" value="com.javaexamples._18.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeProject" />
         <item itemvalue="Application.IdmanProgrami" />
         <item itemvalue="Application.ATMProgramOOP" />
         <item itemvalue="Application.AdvancedCalculator" />
         <item itemvalue="Application.EbobBulma" />
-        <item itemvalue="Application.AsalSayiBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +136,8 @@
       <workItem from="1566029769841" duration="8474000" />
       <workItem from="1566080195766" duration="1007000" />
       <workItem from="1566227053139" duration="3020000" />
-      <workItem from="1566238975925" duration="5329000" />
+      <workItem from="1566238975925" duration="5620000" />
+      <workItem from="1566387113203" duration="1991000" />
     </task>
     <servers />
   </component>
