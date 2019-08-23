@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="" />
+    <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,26 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeybladeProgram">
+  <component name="RunManager" selected="Application.HafizaOyunu">
     <configuration name="ATMProgramOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._16.example.ATMProgramOOP" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javaexamples._16.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._15.example.AdvancedCalculator" />
-      <module name="java-basic-examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javaexamples._15.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HafizaOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._20.example.HafizaOyunu" />
+      <module name="java-basic-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaexamples._20.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IdmanProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._17.example.IdmanProgrami" />
       <module name="java-basic-examples" />
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HafizaOyunu" />
         <item itemvalue="Application.BeybladeProgram" />
         <item itemvalue="Application.EmployeeProject" />
         <item itemvalue="Application.IdmanProgrami" />
         <item itemvalue="Application.ATMProgramOOP" />
-        <item itemvalue="Application.AdvancedCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +139,7 @@
       <workItem from="1566238975925" duration="5620000" />
       <workItem from="1566387113203" duration="2290000" />
       <workItem from="1566415745315" duration="1898000" />
+      <workItem from="1566561676020" duration="2337000" />
     </task>
     <servers />
   </component>
