@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="BeybladeProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._19.beyblade.BeybladeProgram" />
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._19.example.BeybladeProgram" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._19.beyblade.*" />
+          <option name="PATTERN" value="com.javaexamples._19.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,7 +136,7 @@
       <workItem from="1566227053139" duration="3020000" />
       <workItem from="1566238975925" duration="5620000" />
       <workItem from="1566387113203" duration="2290000" />
-      <workItem from="1566415745315" duration="1625000" />
+      <workItem from="1566415745315" duration="1898000" />
     </task>
     <servers />
   </component>

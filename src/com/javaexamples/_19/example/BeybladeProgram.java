@@ -1,4 +1,4 @@
-package com.javaexamples._19.beyblade;
+package com.javaexamples._19.example;
 
 import java.util.Scanner;
 

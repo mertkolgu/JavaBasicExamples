@@ -1,10 +1,10 @@
-package com.javaexamples._19.beyblade;
+package com.javaexamples._19.example;
 
-public class Dranza extends Beyblade {
+public class Drayga extends Beyblade{
 
     private String kutsalCanavar;
 
-    public Dranza(String beybladeci, int donusHizi, int saldiriGucu, String kutsalCanavar) {
+    public Drayga(String beybladeci, int donusHizi, int saldiriGucu, String kutsalCanavar) {
         super(beybladeci, donusHizi, saldiriGucu);
         this.kutsalCanavar = kutsalCanavar;
     }
@@ -12,7 +12,7 @@ public class Dranza extends Beyblade {
     @Override
     public void kutsalCanavarOrtayaCikar() {
         System.out.println(getBeybladeci() + " " + kutsalCanavar + "'ı ortaya çıkarıyor.");
-        System.out.println(getBeybladeci() + "'ın Saldırısı : Alev Kılıcı");
+        System.out.println(getBeybladeci() + "'ın Saldırısı : Kaplan Pençesi");
     }
 
     @Override
