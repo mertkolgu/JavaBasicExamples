@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,13 +45,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SarkiciProjesi">
-    <configuration name="BeybladeProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._19.example.BeybladeProgram" />
+  <component name="RunManager" selected="Application.SinavBirincisiHesaplama">
+    <configuration name="AlanHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._24.example.AlanHesaplama" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._19.example.*" />
+          <option name="PATTERN" value="com.javaexamples._24.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._18.example.EmployeeProject" />
+    <configuration name="BasicMathPysicProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._25.example.BasicMathPysicProblems" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._18.example.*" />
+          <option name="PATTERN" value="com.javaexamples._25.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HafizaOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._20.example.HafizaOyunu" />
+    <configuration name="SehirTuru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._22.example.SehirTuru" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._20.example.*" />
+          <option name="PATTERN" value="com.javaexamples._22.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IdmanProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._17.example.IdmanProgrami" />
+    <configuration name="SinavBirincisiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._26.example.SinavBirincisiHesaplama" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._17.example.*" />
+          <option name="PATTERN" value="com.javaexamples._26.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SarkiciProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._21.example.SarkiciProjesi" />
+    <configuration name="YurtDisiCikisProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._23.example.YurtDisiCikisProgrami" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._21.example.*" />
+          <option name="PATTERN" value="com.javaexamples._23.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SarkiciProjesi" />
-        <item itemvalue="Application.HafizaOyunu" />
-        <item itemvalue="Application.BeybladeProgram" />
-        <item itemvalue="Application.EmployeeProject" />
-        <item itemvalue="Application.IdmanProgrami" />
+        <item itemvalue="Application.SinavBirincisiHesaplama" />
+        <item itemvalue="Application.BasicMathPysicProblems" />
+        <item itemvalue="Application.AlanHesaplama" />
+        <item itemvalue="Application.YurtDisiCikisProgrami" />
+        <item itemvalue="Application.SehirTuru" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +142,11 @@
       <workItem from="1566415745315" duration="1898000" />
       <workItem from="1566561676020" duration="2549000" />
       <workItem from="1566642500216" duration="2431000" />
+      <workItem from="1566735008089" duration="1855000" />
+      <workItem from="1566739211089" duration="1758000" />
+      <workItem from="1566744675211" duration="1246000" />
+      <workItem from="1567182394295" duration="1819000" />
+      <workItem from="1567250115485" duration="2698000" />
     </task>
     <servers />
   </component>
