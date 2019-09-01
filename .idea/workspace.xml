@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SinavBirincisiHesaplama">
+  <component name="RunManager" selected="Application.HarflerinFrekansiniBulma">
     <configuration name="AlanHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._24.example.AlanHesaplama" />
       <module name="java-basic-examples" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SehirTuru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._22.example.SehirTuru" />
+    <configuration name="HarflerinFrekansiniBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._27.example.HarflerinFrekansiniBulma" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._22.example.*" />
+          <option name="PATTERN" value="com.javaexamples._27.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HarflerinFrekansiniBulma" />
         <item itemvalue="Application.SinavBirincisiHesaplama" />
         <item itemvalue="Application.BasicMathPysicProblems" />
         <item itemvalue="Application.AlanHesaplama" />
         <item itemvalue="Application.YurtDisiCikisProgrami" />
-        <item itemvalue="Application.SehirTuru" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +146,8 @@
       <workItem from="1566739211089" duration="1758000" />
       <workItem from="1566744675211" duration="1246000" />
       <workItem from="1567182394295" duration="1819000" />
-      <workItem from="1567250115485" duration="2698000" />
+      <workItem from="1567250115485" duration="2839000" />
+      <workItem from="1567364193773" duration="345000" />
     </task>
     <servers />
   </component>
