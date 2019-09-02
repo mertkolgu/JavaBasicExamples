@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.YurtDisiCikisProgrami">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="AcilServisUygulamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._30.example.AcilServisUygulamasi" />
       <module name="java-basic-examples" />
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KumandaProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._31.example.KumandaProjesi" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._33.example.Calculator" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._31.example.*" />
+          <option name="PATTERN" value="com.javaexamples._33.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._28.example.PalindromeBulma" />
+    <configuration name="KumandaProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._31.example.KumandaProjesi" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._28.example.*" />
+          <option name="PATTERN" value="com.javaexamples._31.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.YurtDisiCikisProgrami" />
         <item itemvalue="Application.KumandaProjesi" />
         <item itemvalue="Application.AcilServisUygulamasi" />
         <item itemvalue="Application.PideKuyrugu" />
-        <item itemvalue="Application.PalindromeBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,7 @@
       <workItem from="1567428248772" duration="539000" />
       <workItem from="1567430750021" duration="1052000" />
       <workItem from="1567440771049" duration="1040000" />
-      <workItem from="1567458870675" duration="1291000" />
+      <workItem from="1567458870675" duration="1756000" />
     </task>
     <servers />
   </component>
