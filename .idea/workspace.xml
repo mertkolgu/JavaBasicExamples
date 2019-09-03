@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/folders/kayit.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_37/example/Kart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_37/example/OyunKaydetmeProgrami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_37/example/OyunKayit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NotHesaplama">
+  <component name="RunManager" selected="Application.OyunKaydetmeProgrami">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._33.example.Calculator" />
       <module name="java-basic-examples" />
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YurtDisiCikisProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._32.example.YurtDisiCikisProgrami" />
+    <configuration name="OyunKaydetmeProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._37.example.OyunKaydetmeProgrami" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._32.example.*" />
+          <option name="PATTERN" value="com.javaexamples._37.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OyunKaydetmeProgrami" />
         <item itemvalue="Application.NotHesaplama" />
         <item itemvalue="Application.IdmanProgramiLogOlusturma" />
         <item itemvalue="Application.CopyMusic" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.YurtDisiCikisProgrami" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +164,8 @@
       <workItem from="1567458870675" duration="1960000" />
       <workItem from="1567513829570" duration="1372000" />
       <workItem from="1567517907251" duration="798000" />
-      <workItem from="1567527681565" duration="660000" />
+      <workItem from="1567527681565" duration="782000" />
+      <workItem from="1567534883584" duration="1581000" />
     </task>
     <servers />
   </component>
