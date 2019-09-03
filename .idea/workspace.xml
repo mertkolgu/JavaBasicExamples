@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.CopyMusic">
     <configuration name="AcilServisUygulamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._30.example.AcilServisUygulamasi" />
       <module name="java-basic-examples" />
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KumandaProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._31.example.KumandaProjesi" />
+    <configuration name="CopyMusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._34.example.CopyMusic" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._31.example.*" />
+          <option name="PATTERN" value="com.javaexamples._34.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PideKuyrugu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._29.example.PideKuyrugu" />
+    <configuration name="KumandaProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._31.example.KumandaProjesi" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._29.example.*" />
+          <option name="PATTERN" value="com.javaexamples._31.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyMusic" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.YurtDisiCikisProgrami" />
         <item itemvalue="Application.KumandaProjesi" />
         <item itemvalue="Application.AcilServisUygulamasi" />
-        <item itemvalue="Application.PideKuyrugu" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,8 @@
       <workItem from="1567428248772" duration="539000" />
       <workItem from="1567430750021" duration="1052000" />
       <workItem from="1567440771049" duration="1040000" />
-      <workItem from="1567458870675" duration="1756000" />
+      <workItem from="1567458870675" duration="1960000" />
+      <workItem from="1567513829570" duration="1186000" />
     </task>
     <servers />
   </component>
