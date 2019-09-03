@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IdmanProgramiLogOlusturma">
+  <component name="RunManager" selected="Application.NotHesaplama">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._33.example.Calculator" />
       <module name="java-basic-examples" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KumandaProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._31.example.KumandaProjesi" />
+    <configuration name="NotHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._36.example.NotHesaplama" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._31.example.*" />
+          <option name="PATTERN" value="com.javaexamples._36.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NotHesaplama" />
         <item itemvalue="Application.IdmanProgramiLogOlusturma" />
         <item itemvalue="Application.CopyMusic" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.YurtDisiCikisProgrami" />
-        <item itemvalue="Application.KumandaProjesi" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,8 @@
       <workItem from="1567440771049" duration="1040000" />
       <workItem from="1567458870675" duration="1960000" />
       <workItem from="1567513829570" duration="1372000" />
-      <workItem from="1567517907251" duration="565000" />
+      <workItem from="1567517907251" duration="798000" />
+      <workItem from="1567527681565" duration="660000" />
     </task>
     <servers />
   </component>
