@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/folders/kayit.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_37/example/Kart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_37/example/OyunKaydetmeProgrami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_37/example/OyunKayit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_38/example/ProducerAndConsumerProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_38/example/ProducerConsumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,20 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OyunKaydetmeProgrami">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._33.example.Calculator" />
-      <module name="java-basic-examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javaexamples._33.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProducerAndConsumerProblem">
     <configuration name="CopyMusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javaexamples._34.example.CopyMusic" />
       <module name="java-basic-examples" />
@@ -120,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProducerAndConsumerProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._38.example.ProducerAndConsumerProblem" />
+      <module name="java-basic-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaexamples._38.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProducerAndConsumerProblem" />
         <item itemvalue="Application.OyunKaydetmeProgrami" />
         <item itemvalue="Application.NotHesaplama" />
         <item itemvalue="Application.IdmanProgramiLogOlusturma" />
         <item itemvalue="Application.CopyMusic" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +163,8 @@
       <workItem from="1567513829570" duration="1372000" />
       <workItem from="1567517907251" duration="798000" />
       <workItem from="1567527681565" duration="782000" />
-      <workItem from="1567534883584" duration="1581000" />
+      <workItem from="1567534883584" duration="1604000" />
+      <workItem from="1567776930807" duration="2031000" />
     </task>
     <servers />
   </component>
