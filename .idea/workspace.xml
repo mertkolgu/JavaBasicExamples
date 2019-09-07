@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_40/example/CopyMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/javaexamples/_39/example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -53,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProducerAndConsumerProblem (1)">
-    <configuration name="IdmanProgramiLogOlusturma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._35.example.IdmanProgramiLogOlusturma" />
+  <component name="RunManager" selected="Application.CopyMusic">
+    <configuration name="CopyMusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaexamples._40.example.CopyMusic" />
       <module name="java-basic-examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javaexamples._35.example.*" />
+          <option name="PATTERN" value="com.javaexamples._40.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyMusic" />
         <item itemvalue="Application.ProducerAndConsumerProblem (1)" />
         <item itemvalue="Application.ProducerAndConsumerProblem" />
         <item itemvalue="Application.OyunKaydetmeProgrami" />
         <item itemvalue="Application.NotHesaplama" />
-        <item itemvalue="Application.IdmanProgramiLogOlusturma" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +167,8 @@
       <workItem from="1567527681565" duration="782000" />
       <workItem from="1567534883584" duration="1604000" />
       <workItem from="1567776930807" duration="2070000" />
-      <workItem from="1567789997663" duration="2045000" />
+      <workItem from="1567789997663" duration="2331000" />
+      <workItem from="1567893883146" duration="365000" />
     </task>
     <servers />
   </component>
