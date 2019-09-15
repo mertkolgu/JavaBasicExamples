@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16b1d44e-390f-4e17-a12d-fa4fc9e86839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javaexamples/_40/example/CopyMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-examples/META-INF/java-basic-examples.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-basic-examples/META-INF/java-basic-examples.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -33,6 +33,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -54,79 +55,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CopyMusic">
-    <configuration name="CopyMusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._40.example.CopyMusic" />
+  <component name="RunManager" selected="Kotlin.com.kotlinexamples._16.example.MatematikIslemleriKt">
+    <configuration name="com.kotlinexamples._12.example.FaktoriyelKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-basic-examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javaexamples._40.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlinexamples._12.example.FaktoriyelKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._36.example.NotHesaplama" />
+    <configuration name="com.kotlinexamples._13.example.FonksiyonDegerHesaplamaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-basic-examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javaexamples._36.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlinexamples._13.example.FonksiyonDegerHesaplamaKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OyunKaydetmeProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._37.example.OyunKaydetmeProgrami" />
+    <configuration name="com.kotlinexamples._14.example.HarfNotuHesaplamaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-basic-examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javaexamples._37.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlinexamples._14.example.HarfNotuHesaplamaKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerAndConsumerProblem (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._39.example.ProducerAndConsumerProblem" />
+    <configuration name="com.kotlinexamples._15.example.CarpimTablosuKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-basic-examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javaexamples._39.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlinexamples._15.example.CarpimTablosuKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerAndConsumerProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javaexamples._38.example.ProducerAndConsumerProblem" />
+    <configuration name="com.kotlinexamples._16.example.MatematikIslemleriKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-basic-examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javaexamples._38.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlinexamples._16.example.MatematikIslemleriKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CopyMusic" />
-        <item itemvalue="Application.ProducerAndConsumerProblem (1)" />
-        <item itemvalue="Application.ProducerAndConsumerProblem" />
-        <item itemvalue="Application.OyunKaydetmeProgrami" />
-        <item itemvalue="Application.NotHesaplama" />
+        <item itemvalue="Kotlin.com.kotlinexamples._16.example.MatematikIslemleriKt" />
+        <item itemvalue="Kotlin.com.kotlinexamples._15.example.CarpimTablosuKt" />
+        <item itemvalue="Kotlin.com.kotlinexamples._14.example.HarfNotuHesaplamaKt" />
+        <item itemvalue="Kotlin.com.kotlinexamples._13.example.FonksiyonDegerHesaplamaKt" />
+        <item itemvalue="Kotlin.com.kotlinexamples._12.example.FaktoriyelKt" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +169,10 @@
       <workItem from="1567534883584" duration="1604000" />
       <workItem from="1567776930807" duration="2070000" />
       <workItem from="1567789997663" duration="2331000" />
-      <workItem from="1567893883146" duration="365000" />
+      <workItem from="1567893883146" duration="558000" />
+      <workItem from="1568384933147" duration="2109000" />
+      <workItem from="1568465869728" duration="5186000" />
+      <workItem from="1568553698114" duration="2385000" />
     </task>
     <servers />
   </component>
